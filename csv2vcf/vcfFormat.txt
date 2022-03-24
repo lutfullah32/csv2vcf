@@ -1,0 +1,6 @@
+﻿BEGIN:VCARD
+VERSION:2.1
+N:
+FN:$name$
+TEL;TYPE=work,voice;VALUE=uri:$tel$
+END:VCARD
